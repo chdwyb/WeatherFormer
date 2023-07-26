@@ -31,7 +31,7 @@ python train.py --train_data ./allweather/ --val_data ./raindrop_a/ --cuda True
 
 ### Models
 
-We provide our pre-trained models for comparisons in [WeatherFormer models](https://github.com/chdwyb/pre_trained_models). Please note that the final results of these models may differ slightly from our report, but it does not affect the conclusion.
+We provide our pre-trained models for comparisons in [WeatherFormer models](https://github.com/chdwyb/pre_trained_models) for both adverse and single weather removal tasks.
 
 ### Test
 
